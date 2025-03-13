@@ -1,0 +1,12 @@
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogDomainLayer\bin\Debug\net8.0\BlogDomainLayer.deps.json
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogDomainLayer\bin\Debug\net8.0\BlogDomainLayer.dll
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogDomainLayer\bin\Debug\net8.0\BlogDomainLayer.pdb
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogDomainLayer\obj\Debug\net8.0\BlogDomainLayer.csproj.AssemblyReference.cache
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogDomainLayer\obj\Debug\net8.0\BlogDomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogDomainLayer\obj\Debug\net8.0\BlogDomainLayer.AssemblyInfoInputs.cache
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogDomainLayer\obj\Debug\net8.0\BlogDomainLayer.AssemblyInfo.cs
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogDomainLayer\obj\Debug\net8.0\BlogDomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogDomainLayer\obj\Debug\net8.0\BlogDomainLayer.dll
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogDomainLayer\obj\Debug\net8.0\refint\BlogDomainLayer.dll
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogDomainLayer\obj\Debug\net8.0\BlogDomainLayer.pdb
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogDomainLayer\obj\Debug\net8.0\ref\BlogDomainLayer.dll

@@ -1,0 +1,17 @@
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogDataAccessLayer\bin\Debug\net8.0\BlogDataAccessLayer.deps.json
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogDataAccessLayer\bin\Debug\net8.0\BlogDataAccessLayer.runtimeconfig.json
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogDataAccessLayer\bin\Debug\net8.0\BlogDataAccessLayer.dll
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogDataAccessLayer\bin\Debug\net8.0\BlogDataAccessLayer.pdb
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogDataAccessLayer\bin\Debug\net8.0\BlogDomainLayer.dll
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogDataAccessLayer\bin\Debug\net8.0\BlogDomainLayer.pdb
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogDataAccessLayer\obj\Debug\net8.0\BlogDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogDataAccessLayer\obj\Debug\net8.0\BlogDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogDataAccessLayer\obj\Debug\net8.0\BlogDataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogDataAccessLayer\obj\Debug\net8.0\BlogDataAccessLayer.AssemblyInfo.cs
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogDataAccessLayer\obj\Debug\net8.0\BlogDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogDataAccessLayer\obj\Debug\net8.0\BlogData.3C63C7B5.Up2Date
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogDataAccessLayer\obj\Debug\net8.0\BlogDataAccessLayer.dll
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogDataAccessLayer\obj\Debug\net8.0\refint\BlogDataAccessLayer.dll
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogDataAccessLayer\obj\Debug\net8.0\BlogDataAccessLayer.pdb
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogDataAccessLayer\obj\Debug\net8.0\BlogDataAccessLayer.genruntimeconfig.cache
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogDataAccessLayer\obj\Debug\net8.0\ref\BlogDataAccessLayer.dll

@@ -1,0 +1,17 @@
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogBusinessLogicLayer\bin\Debug\net8.0\BlogBusinessLogicLayer.deps.json
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogBusinessLogicLayer\bin\Debug\net8.0\BlogBusinessLogicLayer.dll
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogBusinessLogicLayer\bin\Debug\net8.0\BlogBusinessLogicLayer.pdb
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogBusinessLogicLayer\bin\Debug\net8.0\BlogDataAccessLayer.dll
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogBusinessLogicLayer\bin\Debug\net8.0\BlogDomainLayer.dll
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogBusinessLogicLayer\bin\Debug\net8.0\BlogDataAccessLayer.pdb
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogBusinessLogicLayer\bin\Debug\net8.0\BlogDomainLayer.pdb
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogBusinessLogicLayer\obj\Debug\net8.0\BlogBusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogBusinessLogicLayer\obj\Debug\net8.0\BlogBusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogBusinessLogicLayer\obj\Debug\net8.0\BlogBusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogBusinessLogicLayer\obj\Debug\net8.0\BlogBusinessLogicLayer.AssemblyInfo.cs
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogBusinessLogicLayer\obj\Debug\net8.0\BlogBusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogBusinessLogicLayer\obj\Debug\net8.0\BlogBusi.8F00AF7A.Up2Date
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogBusinessLogicLayer\obj\Debug\net8.0\BlogBusinessLogicLayer.dll
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogBusinessLogicLayer\obj\Debug\net8.0\refint\BlogBusinessLogicLayer.dll
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogBusinessLogicLayer\obj\Debug\net8.0\BlogBusinessLogicLayer.pdb
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\BlogBusinessLogicLayer\obj\Debug\net8.0\ref\BlogBusinessLogicLayer.dll
